@@ -1,4 +1,4 @@
-Step 1: Create a Dedicated ROS2 User on Ubuntu
+clearStep 1: Create a Dedicated ROS2 User on Ubuntu
 
 To keep ROS2 development isolated, create a new user on Ubuntu:
 sudo adduser ros2_user
