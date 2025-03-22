@@ -27,7 +27,7 @@ After evaluating package stability, long-term support, and compatibility, **Jazz
 2. **Long-Term Support**: Jazzy Jalisco provides long-term support, making it a stable choice for production and future updates ([ROS 2 Discourse](https://discourse.ros.org/)).
 3. **Performance Optimization**: Since it is built for the latest Ubuntu version, it takes full advantage of newer system improvements ([Comparison of ROS 2 Distributions](https://docs.ros.org/en/rolling/Releases.html)).
 4. **Active Development**: Being the latest release, it will receive continued updates and bug fixes, ensuring reliability ([ROS 2 Official Documentation](https://docs.ros.org/en/rolling/)).
-
+L
 ### Considerations Before Choosing Jazzy Jalisco
 While Jazzy Jalisco is the best fit for Ubuntu 24.04, users should consider that some third-party packages may still be updating to fully support this version. If using legacy software, verify compatibility before upgrading ([ROS 2 Discourse](https://discourse.ros.org/)).
 
